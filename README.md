@@ -288,6 +288,7 @@ Con el numerador completo, $G(\infty)=G(0)=K$, por lo que la respuesta del circu
 2. La rama $L$–$C$ absorbe corriente mientras el capacitor se carga y $V_s$ cae a un mínimo cerca de 2 ms.
 3. La salida se recupera exponencialmente hasta $K$, sin sobreimpulso sobre el valor final ni oscilaciones.
 
+
 | Condición | Valor inicial | Mínimo (≈ 2 ms) | $t_{90\%}$ | $t_s$ (2 %) | Valor final |
 |---|---:|---:|---:|---:|---:|
 | Control | 0.74 V | ≈ 0.10 V | ≈ 23 ms | ≈ 39 ms | 0.74 V |
