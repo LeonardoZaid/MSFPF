@@ -1,3 +1,5 @@
+[![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=LeonardoZaid/MSFPF)
+
 # Proyecto final — Modelado y control del sistema nervioso y sensorial en neuropatía diabética periférica
 
 Repositorio académico de la asignatura **Modelado de Sistemas Fisiológicos**, correspondiente al programa de **Ingeniería Biomédica** del Tecnológico Nacional de México / Instituto Tecnológico de Tijuana. El proyecto integra analogías eléctricas de sistemas fisiológicos, modelado matemático, análisis temporal y de estabilidad, simulación en MATLAB/Simulink y Python, y el diseño de un controlador PID, aplicados a un caso elegido por el equipo.
